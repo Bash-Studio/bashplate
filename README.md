@@ -1,5 +1,5 @@
 # bashplate
-discord bot template
+discord bot template<br>
 ##Preview:
 <br>
 !()[../preview.png]
@@ -7,7 +7,7 @@ discord bot template
 <br>
 main changes have to be in **img** folder
 
-Join our Discord server for support
+Join our Discord server for support<br>
 !()[../discord.png]<br>
 <hr>
 COPYRIGHT TO BASH-CODERS
