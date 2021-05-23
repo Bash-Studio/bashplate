@@ -1,6 +1,6 @@
 # bashplate
 discord bot template<br>
-##Preview:
+Preview:
 <br>
 !()[../preview.png]
 <br>
