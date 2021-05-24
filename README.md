@@ -8,6 +8,7 @@ Preview:
 main changes have to be in **img** folder
 
 Join our Discord server for support<br>
-![./discord.PNG](https://discord.gg/M5nT88n4P8)<br>
+<a href="https://discord.gg/M5nT88n4P8"><img src="./discord.PNG"/></a>
+<br>
 <hr>
 COPYRIGHT TO BASH-CODERS
